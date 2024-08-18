@@ -47,8 +47,8 @@ const CONFIG = {
   LANDING_FEATURES_BLOCK_6_P: 'NotionNext，助您轻松开始写作',
 
   // 感言
-  LANDING_TESTIMONIALS_HEADER: '已搭建超7000个网站、总浏览量突破100,000,000+',
-  LANDING_TESTIMONIALS_P: '网站内容涵盖地产、教育、建筑、医学、机械、IT、电子、软件、自媒体、数位游民、短视频、电商、学生、摄影爱好者、旅行爱好者等等各行各业',
+  LANDING_TESTIMONIALS_HEADER: 'Our Footprint',
+  LANDING_TESTIMONIALS_P: 'As an original manufacturer in the industry, we possess strong price competitiveness and have stable raw material suppliers and partner factories.<br/>As an international trading company, we have been pursuing a global expansion strategy since the day of our establishment.<br/>Currently, we have long-term partnerships with renowned companies, including Walmart, Target, Disney, and Melissa & Doug in the United States; Nikkan, Chica, and Mato in Japan; Bathtime in Europe; and Asura in South Africa.',
 
   LANDING_TESTIMONIALS_AVATAR: 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
   LANDING_TESTIMONIALS_NICKNAME: 'Ryan_G',
