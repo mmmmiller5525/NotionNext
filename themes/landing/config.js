@@ -65,23 +65,23 @@ const CONFIG = {
   LANDING_PRICING_P2:'Email: cherryshi2016@126.com',
   LANDING_PRICING_P3:'Mob: +86 15019431630',
 
-  //LANDING_PRICING_1_TITLE: '个人版',
-  //LANDING_PRICING_1_PRICE: '免费',
-  //LANDING_PRICING_1_CONTENT: '项目源代码,部署教程,不定时技术答疑',
-  //LANDING_PRICING_1_BUTTON: '开始体验',
-  //LANDING_PRICING_1_URL: 'https://docs.tangly1024.com/about',
+  LANDING_PRICING_1_TITLE: '个人版',
+  LANDING_PRICING_1_PRICE: '免费',
+  LANDING_PRICING_1_CONTENT: '项目源代码,部署教程,不定时技术答疑',
+  LANDING_PRICING_1_BUTTON: '开始体验',
+  LANDING_PRICING_1_URL: 'https://docs.tangly1024.com/about',
 
-  //LANDING_PRICING_2_TITLE: '捐赠版',
-  //LANDING_PRICING_2_PRICE: '$9.9/月',
-  //LANDING_PRICING_2_CONTENT: '项目源代码,部署教程,长期技术答疑,代码升级合并,内部社群',
-  //LANDING_PRICING_2_BUTTON: '立即购买',
-  //LANDING_PRICING_2_URL: 'https://tangly1024.lemonsqueezy.com/checkout/buy/0adb9153-0799-4f51-91aa-1f06391ea4e0',
+  LANDING_PRICING_2_TITLE: '捐赠版',
+  LANDING_PRICING_2_PRICE: '$9.9/月',
+  LANDING_PRICING_2_CONTENT: '项目源代码,部署教程,长期技术答疑,代码升级合并,内部社群',
+  LANDING_PRICING_2_BUTTON: '立即购买',
+  LANDING_PRICING_2_URL: 'https://tangly1024.lemonsqueezy.com/checkout/buy/0adb9153-0799-4f51-91aa-1f06391ea4e0',
 
-  //LANDING_PRICING_3_TITLE: '企业版',
-  //LANDING_PRICING_3_PRICE: '$59/月',
-  //LANDING_PRICING_3_CONTENT: '项目源代码,部署教程,VIP技术咨询,代码升级合并,内部社群,定制功能开发,SEO优化',
-  //LANDING_PRICING_3_BUTTON: '立即购买',
-  //LANDING_PRICING_3_URL: 'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
+  LANDING_PRICING_3_TITLE: '企业版',
+  LANDING_PRICING_3_PRICE: '$59/月',
+  LANDING_PRICING_3_CONTENT: '项目源代码,部署教程,VIP技术咨询,代码升级合并,内部社群,定制功能开发,SEO优化',
+  LANDING_PRICING_3_BUTTON: '立即购买',
+  LANDING_PRICING_3_URL: 'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
 
   LANDING_NEWSLETTER: process.env.NEXT_PUBLIC_THEME_LANDING_NEWSLETTER || false // 是否开启邮件订阅 请先配置mailchimp功能 https://docs.tangly1024.com/article/notion-next-mailchimp
 }
